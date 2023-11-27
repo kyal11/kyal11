@@ -16,8 +16,8 @@
 
 ## ![i-stats](https://img.icons8.com/dusk/32/combo-chart--v1.png) GITHUB STATS :
 <div align=center>
-  <img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kyal11&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=kyal11&theme=react&hide_border=false&show_icons=true&layout=compact" alt="readme stats" />
+  <img width="350" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kyal11&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
+  <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=kyal11&theme=react&hide_border=false&show_icons=true&layout=compact" alt="readme stats" />
   <br>
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kyal11&label=Profile%20Views&color=0&icon=0&pretty=true" />
